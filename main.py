@@ -4,7 +4,7 @@ import random
 from pprint import pprint
 import django
 import json
-import amazonproduct
+#import amazonproduct
 from ebay import ebay
 
 f = open("config.json", "r")
